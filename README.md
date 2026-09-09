@@ -26,4 +26,4 @@ Excel |Powery Query |Power Pivot |DAX
 <img width="1000" height="700" alt="US Superstore Dashboard (SS)" src="https://github.com/user-attachments/assets/9832076d-9819-4267-b944-22b7108d55da" />
 
 ### DATA MODEL 
-<img width="1000" height="946" alt="Data Model US Superstore" src="https://github.com/user-attachments/assets/149264ae-19a9-4226-80be-be2f8d926efa" />
+<img width="1000" height="700" alt="Data Model US Superstore" src="https://github.com/user-attachments/assets/149264ae-19a9-4226-80be-be2f8d926efa" />
