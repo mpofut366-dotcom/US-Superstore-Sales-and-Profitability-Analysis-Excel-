@@ -23,7 +23,7 @@ Excel |Powery Query |Power Pivot |DAX
 - High sales volume did not always drive high profitability; heavily discounted items created significant gaps between gross potential profit and actual profit. E.g., tables stood out as a key example: 246 of 319 orders received a discount, at an average discount of 26%,  resulting in a net loss of $17,725.48.
 
 ### DASHBOARD PREVIEW 
-<img width="1000" height="1183" alt="US Superstore Dashboard (SS)" src="https://github.com/user-attachments/assets/9832076d-9819-4267-b944-22b7108d55da" />
+<img width="1000" height="700" alt="US Superstore Dashboard (SS)" src="https://github.com/user-attachments/assets/9832076d-9819-4267-b944-22b7108d55da" />
 
 ### DATA MODEL 
 <img width="1000" height="946" alt="Data Model US Superstore" src="https://github.com/user-attachments/assets/149264ae-19a9-4226-80be-be2f8d926efa" />
